@@ -1,5 +1,7 @@
 # Quill ImageResize Module
 
+Forked from https://github.com/kensnyder/quill-image-resize-module and fixed bug.
+
 A module for Quill rich text editor to allow images to be resized.
 
 Also see [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module),
